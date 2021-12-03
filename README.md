@@ -1,5 +1,8 @@
 # AndroidNative_MovieTitleQuiz
 
+2021-2 모바일앱개발 과제로 제작한, 간단한 안드로이드 네이티브   Movie Title QUIZ 앱 데모영상입니다.
+
+데모 영상 유튜브 링크 : https://youtu.be/trqdCH10_VI
 1. 로그인 화면 
 <p>
 <img width="300" height="600" alt="스크린샷 2021-12-03 오후 8 54 16" src="https://user-images.githubusercontent.com/75043852/144598649-bd10cb7b-0df1-4a0a-9454-26a807973452.png">
